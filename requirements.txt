@@ -1,5 +1,6 @@
 gunicorn
-numpy 
+Flask
+numpy
 pandas
 seaborn
 matplotlib
@@ -7,5 +8,3 @@ scikit-learn
 xgboost
 catboost
 dill
-flask
-Flask
